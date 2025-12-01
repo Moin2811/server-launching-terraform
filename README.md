@@ -160,16 +160,6 @@ This project demonstrates:
 
 ⭐ Your ability to deploy and manage cloud environments independently
 
-Perfect for:
-
-DevOps portfolios
-
-Cloud engineering interviews
-
-Resume projects
-
-Demonstrating Terraform mastery
-
 🧑‍💻 Author
 Moin Raoof Mohammed
 Cloud & DevOps Engineer 
